@@ -1,0 +1,33 @@
+/* body css */
+html {
+    box-sizing: border-box;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+.body__image{
+    background-image: url(../images/oldcalculator.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.body__form {
+    margin: 0 auto;
+    padding: 0 10px;
+    max-width: 650px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+}
+.body__header {
+    background-color: rgb(8, 95, 145);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.button--background {
+    width: 50%;
+    background-color: rgb(8, 95, 145);
+    padding: 10px;
+    color:rgb(255, 255, 255);
+    
+}
