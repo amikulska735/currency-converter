@@ -9,6 +9,7 @@ html {
     background-image: url(../images/oldcalculator.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position-x: center;
 
 }
 .body__form {
