@@ -8,4 +8,4 @@ This is my second project created for a programming course. This project convert
 ## What do I use in the project
 - JS code that converts currency, addes and removes background image.
 - Normalize css, Google Fonts- Roboto, Alternative Box Model
-- OpenGrapg and icon in HTML
+- OpenGraph and icon in HTML
